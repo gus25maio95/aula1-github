@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\guto_\OneDrive\Área de Trabalho\WS Java\.metadata\.plugins\org.eclipse.jdt.core
+3175342789.index
+2343096895.index
+2794312673.index
+987454016.index
+3331841758.index
+3491784395.index
+3729101479.index
